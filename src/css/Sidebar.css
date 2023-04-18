@@ -1,0 +1,44 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+.home-link {
+  color: #FFFFFF; /* Change the color to red */
+}
+.sidebar {
+  width: 20%;
+  height: 100vh;
+  display: inline-block;
+  background-color: #e2dfdf;
+  vertical-align: top;
+  padding: 20px;
+  box-sizing: border-box; /* add this line to include padding and border in the width calculation */
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
+a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  background-color: #ddd;
+}
+
+.content {
+  width: 80%;
+  height: 100%;
+  display: inline-block;
+  padding: 20px;
+  box-sizing: border-box; /* add this line to include padding and border in the width calculation */
+  vertical-align: top;
+  background-color: #2ecc71;
+}
