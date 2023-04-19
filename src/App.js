@@ -5,7 +5,7 @@ import './css/Sidebar.css';
 import Header from './Header';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Sidebar from './components/Sidebar';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 import Home from './pages/Home'
 import About from './pages/About';
