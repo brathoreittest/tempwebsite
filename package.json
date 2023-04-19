@@ -1,6 +1,7 @@
 {
   "name": "create-websites-with-custom-themes",
   "version": "0.1.0",
+  "homepage": "https://brathoreittest.github.io/tempwebsite",
   "private": false,
   "dependencies": {
     "@react-google-maps/api": "^2.18.1",
