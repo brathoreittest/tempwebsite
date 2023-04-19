@@ -13,7 +13,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-  <Router basename={process.env.PUBLIC_URL}>
+  <Router>
     <div className="container-fluid">
       <div className="row">
         <div className="col-12"><Header /></div>
