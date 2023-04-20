@@ -1,5 +1,6 @@
 {
-  "name": "create-websites-with-custom-themes",
+  "homepage": "https://brathoreittest.github.io/tempwebiste",
+  "name": "tempwebsite",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
